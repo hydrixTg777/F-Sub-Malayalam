@@ -33,7 +33,7 @@ class Messages():
         
         "**Commmands**\n__/FSub - നിലവിലെ settings ലഭിക്കാൻ.\n/FSub no/off/disable - ForceSubscribe ഓഫ് ആക്കുവാൻ.\n/fsub {channel username} - നിർധിഷ്ട്ട ചാനലിൽ Force Sub Enable ആക്കാൻ.\n/FSub clear - ഞാൻ മ്യുട്ട് ചെയ്ത എല്ലാവരേം അണ്മ്യുട്ട് ആക്കുവാൻ.\n\nശ്രദ്ദിക്കുക: /Forcesubscribe is an alias of /FSub__",
         
-        "**Developed by @Shamilnelli**"
+        "**Developed by @Shamielli**"
       ]
 
       START_MSG = """
