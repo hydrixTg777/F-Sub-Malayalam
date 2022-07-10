@@ -2,3 +2,4 @@ TgCrypto
 pyrogram==1.4.16
 sqlalchemy==1.4.0
 psycopg2-binary
+pymongo[srv]==3.12.3
